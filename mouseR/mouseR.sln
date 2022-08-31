@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mouseR", "mouseR\mouseR.csproj", "{2FEC16BA-94C6-4ACD-B7B1-60ECC936D61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEC16BA-94C6-4ACD-B7B1-60ECC936D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEC16BA-94C6-4ACD-B7B1-60ECC936D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEC16BA-94C6-4ACD-B7B1-60ECC936D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEC16BA-94C6-4ACD-B7B1-60ECC936D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA1603C3-A90E-461D-B189-92723A14ECCA}
+	EndGlobalSection
+EndGlobal

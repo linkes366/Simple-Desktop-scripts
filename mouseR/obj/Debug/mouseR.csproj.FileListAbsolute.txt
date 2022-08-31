@@ -1,0 +1,8 @@
+C:\Users\YOYA\source\repos\mouseR\mouseR\bin\Debug\mouseR.exe.config
+C:\Users\YOYA\source\repos\mouseR\mouseR\bin\Debug\mouseR.exe
+C:\Users\YOYA\source\repos\mouseR\mouseR\bin\Debug\mouseR.pdb
+C:\Users\YOYA\source\repos\mouseR\mouseR\obj\Debug\mouseR.csproj.AssemblyReference.cache
+C:\Users\YOYA\source\repos\mouseR\mouseR\obj\Debug\mouseR.csproj.SuggestedBindingRedirects.cache
+C:\Users\YOYA\source\repos\mouseR\mouseR\obj\Debug\mouseR.csproj.CoreCompileInputs.cache
+C:\Users\YOYA\source\repos\mouseR\mouseR\obj\Debug\mouseR.exe
+C:\Users\YOYA\source\repos\mouseR\mouseR\obj\Debug\mouseR.pdb
